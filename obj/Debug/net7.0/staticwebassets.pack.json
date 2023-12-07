@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/andre/dev/ImageSaveAndRetrieveFromDB/wwwroot/images/c5acbce7-6cc4-4474-a64b-566aa3220157_pngtree-golden-frame-floral-border-template-background-png-image_4545944.png",
+      "PackagePath": "staticwebassets/images/c5acbce7-6cc4-4474-a64b-566aa3220157_pngtree-golden-frame-floral-border-template-background-png-image_4545944.png"
+    },
+    {
       "Id": "/home/andre/dev/ImageSaveAndRetrieveFromDB/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

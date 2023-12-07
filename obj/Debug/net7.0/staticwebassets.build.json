@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ht8P3nWc9JdUuk/pUoPVco8itb5g/LrRGnkxKAklVNw=",
+  "Hash": "5SFD9kO/GAmXWZveEGKgtD7OrI3OJd/k64PnoKlt8nA=",
   "Source": "ImageSaveAndRetrieveFromDB",
   "BasePath": "_content/ImageSaveAndRetrieveFromDB",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/home/andre/dev/ImageSaveAndRetrieveFromDB/wwwroot/images/c5acbce7-6cc4-4474-a64b-566aa3220157_pngtree-golden-frame-floral-border-template-background-png-image_4545944.png",
+      "SourceId": "ImageSaveAndRetrieveFromDB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/andre/dev/ImageSaveAndRetrieveFromDB/wwwroot/",
+      "BasePath": "_content/ImageSaveAndRetrieveFromDB",
+      "RelativePath": "images/c5acbce7-6cc4-4474-a64b-566aa3220157_pngtree-golden-frame-floral-border-template-background-png-image_4545944.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/c5acbce7-6cc4-4474-a64b-566aa3220157_pngtree-golden-frame-floral-border-template-background-png-image_4545944.png"
     },
     {
       "Identity": "/home/andre/dev/ImageSaveAndRetrieveFromDB/wwwroot/js/site.js",

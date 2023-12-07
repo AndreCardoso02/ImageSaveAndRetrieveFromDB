@@ -32,6 +32,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\c5acbce7-6cc4-4474-a64b-566aa3220157_pngtree-golden-frame-floral-border-template-background-png-image_4545944.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>ImageSaveAndRetrieveFromDB</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ImageSaveAndRetrieveFromDB</BasePath>
+      <RelativePath>images/c5acbce7-6cc4-4474-a64b-566aa3220157_pngtree-golden-frame-floral-border-template-background-png-image_4545944.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\images\c5acbce7-6cc4-4474-a64b-566aa3220157_pngtree-golden-frame-floral-border-template-background-png-image_4545944.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\ImageSaveAndRetrieveFromDB.bundle.scp.css))">
       <SourceType>Package</SourceType>
       <SourceId>ImageSaveAndRetrieveFromDB</SourceId>
