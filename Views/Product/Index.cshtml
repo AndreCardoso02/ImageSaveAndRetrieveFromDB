@@ -35,7 +35,16 @@
                     @Html.DisplayFor(modelItem => item.Id)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Image)
+                    @* <img src="../images/@Html.DisplayFor(modelItem => item.Image)" style="width: 100px; height: 100px;"
+                /> *@
+                    @if(Buffer.ByteLength(item.Image) > 0)
+                    {
+                        <img src="@(string.Format("data:image/png;base64,{0}", Convert.ToBase64String(item.Image)))" style="width: 100px; height: 100px;" />
+                    } 
+                    else 
+                    {
+                        <span>NO IMAGE UPLOADED</span>
+                    }
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Name)
